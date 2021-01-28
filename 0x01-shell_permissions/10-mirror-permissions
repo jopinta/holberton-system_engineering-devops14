@@ -1,2 +1,2 @@
 #!/bin/bash
-to set same mode of both files
+chmod --reference=hello olleh
