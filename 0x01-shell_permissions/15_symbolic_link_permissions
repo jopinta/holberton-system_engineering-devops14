@@ -1,2 +1,2 @@
 #!/bin/bash
-symbolic link
+chown -h betty:holberton _hello
