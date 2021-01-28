@@ -1,2 +1,2 @@
 #!/bin/bash
-add exe permissions to subd
+chmod -R a+X
