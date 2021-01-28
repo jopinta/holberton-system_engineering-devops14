@@ -1,2 +1,2 @@
 #!/bin/bash
-johnny
+chmod 753 hello
