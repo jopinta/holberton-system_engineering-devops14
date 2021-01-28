@@ -1,2 +1,2 @@
 #!/bin/bash
-chowngr
+chown betty:holberton *
