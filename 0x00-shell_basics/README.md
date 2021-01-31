@@ -1,1 +1,1 @@
-hola
+hola this is un update on my firts README.md. gotta work on it later ty
